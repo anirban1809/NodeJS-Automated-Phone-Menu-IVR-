@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>     
+ <response sid="12345">     
+ <collectdtmf l="1" t="#" o="5000">     
+ <playtext>press 1 for male
+ </playtext>
+ <playtext>press 2 for female</playtext>     
+ </collectdtmf>
+  <gotourl>https://gravo.serveo.net/age</gotourl>     
+   
+ </response>

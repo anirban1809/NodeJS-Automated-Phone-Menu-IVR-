@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>     
+ <response sid="12345">     
+ <collectdtmf l="1" t="#" o="5000">     
+ <playtext>press 1 if you are above 18. otherwise press 2
+ </playtext>
+ </collectdtmf>
+ <gotourl>https://gravo.serveo.net/isadult</gotourl>     
+ </response>
